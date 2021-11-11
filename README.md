@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Alp! :wave:
 
-<!--
-**alpecevit/alpecevit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :rocket: About Me
+- I am a Data Science Trainee at AnalyticaHouse which is a digital marketing consultancy firm based on Istanbul/Turkey.
+- I am also a Senior student ind Political Science & International Relations department at Bogazici University.
 
-Here are some ideas to get you started:
+## :brain: Areas of Interest
+- I'm currently working on several data science projects including NLP, Supervised and Unsupervised Learning Methods etc. 
+- I'm currently learning Machine Learning algorithms 
+- You can reach me from my personal e-mail address: alp.ecevit@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+Python, R, SQL, Tableau, JavaScript, Google Cloud Platform, Google Analytics, Google Tag Manager
