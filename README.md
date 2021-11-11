@@ -10,4 +10,4 @@
 - You can reach me from my personal e-mail address: alp.ecevit@gmail.com
 
 ## 🛠 Skills
-Python, R, SQL, Tableau, JavaScript, Google Cloud Platform, Google Analytics, Google Tag Manager
+Python, R, SQL, Tableau, Google Cloud Platform, Google Analytics, Google Tag Manager
