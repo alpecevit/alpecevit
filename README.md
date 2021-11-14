@@ -2,7 +2,7 @@
 
 ## :rocket: About Me
 - I am a Data Science Trainee at AnalyticaHouse which is a digital marketing consultancy firm based on Istanbul/Turkey.
-- I am also a Senior student ind Political Science & International Relations department at Bogazici University.
+- I am also a Senior student in Political Science & International Relations department at Bogazici University.
 
 ## :brain: Areas of Interest
 - I'm currently working on several data science projects including NLP, Supervised and Unsupervised Learning Methods etc. 
