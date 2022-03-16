@@ -1,7 +1,7 @@
 # Hi, I'm Alp! :wave:
 
 ## :rocket: About Me
-- I am a Data Science Trainee at CicekSepeti.com / Lolaflora.com in Istanbul/Turkey.
+- I am a Data Science / ML Engineer Intern at CicekSepeti.com / Lolaflora.com in Istanbul/Turkey.
 - I am a member of the SDG AI LAB, an initiative under UNDP, as a Volunteer Data Scientist.
 - I am also a Senior student in Political Science & International Relations department at Bogazici University.
 
