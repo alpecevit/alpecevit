@@ -1,9 +1,7 @@
 # Hi, I'm Alp! :wave:
 
 ## :rocket: About Me
-- I am currently working as a Data Analyst at A101 Yeni Magazacilik A.S.
-- I am a member of the SDG AI LAB, an initiative under UNDP, as a Volunteer Data Scientist.
-- I am also a Senior student in Political Science & International Relations department at Bogazici University.
+- I am currently pursuing a Master's degree in Applied Data Analytics at Boston University. 
 
 ## :brain: Areas of Interest
 - I mostly work on NLP projects both in Turkish and English languages.
