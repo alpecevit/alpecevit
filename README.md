@@ -11,4 +11,4 @@
 - You can reach me from my personal e-mail address: alp.ecevit@gmail.com
 
 ## 🛠 Skills
-Python, R, SQL, Flask, HTML5, CSS3, Google Cloud Platform, Google Analytics
+Python, Java, R, SQL, Flask, Django, Docker, Git, PySpark, TensorFlow, Matplotlib, Seaborn, Pandas, NumPy, Scikit-Learn, NLP, NLTK, Jupyter, RESTful API, HTML5, CSS3, Web Scraping, AWS, Google Cloud, QuickSight, Google Analytics, Google Ads.
